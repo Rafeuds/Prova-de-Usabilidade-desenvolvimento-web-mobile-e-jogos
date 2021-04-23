@@ -1,0 +1,46 @@
+.titulo{
+    position: absolute;
+    right: 35%;
+    font-size: 60px;
+    color: gold;
+    text-shadow: 0.2em 0.2em 0.3em black;
+}
+
+.formulario{
+    position: absolute;
+    left:37%;
+    bottom: 50%;
+}
+
+.forms{
+    color: gold;
+}
+
+input[type=text] {
+    height: 30px;
+    width: 450px;
+}
+input[type=email] {
+    height: 30px;
+    width: 450px;
+}
+.botão{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    right: 40%;
+    background-color:gold;
+}
+
+body{
+    background-image: url(/Workshop/css/fundo.png);
+    background-size: cover;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: gold;
+    text-align: center;   
+}

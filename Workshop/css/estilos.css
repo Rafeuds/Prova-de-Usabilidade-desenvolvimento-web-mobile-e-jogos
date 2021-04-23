@@ -1,0 +1,58 @@
+.titulo{
+    position: absolute;
+    right: 36%;
+    font-size: 60px;
+    color: gold;
+    text-shadow: 0.2em 0.2em 0.3em black;
+}
+
+.image{
+    position: absolute;
+    left: 36.5%;
+    bottom: 55%;
+    width: 500px;
+}
+
+.descricao{
+    position: absolute;
+    right: 35%;
+    bottom: 40%;
+    font-size: 35px;
+    color: gold;
+    text-shadow: 0.2em 0.2em 0.3em black
+}
+
+.tabela{
+    position: absolute;
+    color: gold;
+    width: 30%;
+    text-align: center;
+    border-color: black;
+    background-color: rgb(49, 96, 143);
+    left: 34.5%;
+    bottom: 28%;
+}
+
+.botao{
+    position: absolute;
+    right: 49%;
+    bottom: 15%;
+    background-color:gold;
+    font-size: 16px;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: gold;
+    text-align: center;   
+}
+
+
+body{
+    background-image: url(/Workshop/css/fundo.png);
+    background-size: cover;
+}
+
