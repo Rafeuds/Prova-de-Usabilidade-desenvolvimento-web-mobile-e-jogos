@@ -53,6 +53,6 @@
     color: darkslategray;
 }
 body{
-    background-image: url(/Curriculum/css/fundo.png);
+    background-image: url(../css/fundo.png);
     background-size: cover;
 }

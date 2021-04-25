@@ -33,7 +33,7 @@ input[type=email] {
 }
 
 body{
-    background-image: url(/Workshop/css/fundo.png);
+    background-image: url(../css/fundo.png);
     background-size: cover;
 }
 footer{
